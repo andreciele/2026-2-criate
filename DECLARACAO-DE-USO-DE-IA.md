@@ -9,9 +9,9 @@ sim.
 
 ## Equipe
 
-| Nome | Matrícula |
-|---|---|
-| | |
+| Nome       | Matrícula   | GitHug |
+|------------|-------------|---|
+| Andrêciele | 20250104904 |andreciele|
 
 ## Uso declarado
 
